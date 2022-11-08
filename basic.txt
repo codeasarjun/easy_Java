@@ -7,3 +7,6 @@ String[]: The main method accepts a single argument, i.e., an array of elements 
 
 to compile - javac HelloWorld.java 
 to run - java HelloWorld
+
+'
+********** Variable names should not start with underscore _ or dollar sign $ characters, even though both are allowed.

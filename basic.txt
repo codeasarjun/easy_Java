@@ -33,3 +33,6 @@ public class ShutDownHook
 }
 
 A Java class file is a file containing Java bytecode and having .class extension that can be executed by JVM.
+
+
+---In programming languages, identifiers are used for identification purposes. In Java, an identifier can be a class name, method name, variable name, or label

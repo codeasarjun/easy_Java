@@ -1,0 +1,28 @@
+/*
+
+String(byte[] byte_arr) - Construct a new String by decoding the byte array. It uses the platform's default character set for decoding. Example:
+
+
+
+byte[] b_arr = {97, 101};
+String s_byte =new String(b_arr); // will give output as ae
+
+char char_arr[] = {'I','a','m'};
+String s = new String(char_arr);
+
+
+
+String s = new String(char_arr , 1, 3); this will take the char from index 1 to 3
+
+
+*/
+
+class HelloWorld {
+    
+    
+    public static void main(String[] args) {
+        byte[] b_arr = {97, 101};
+        String s=new String(b_arr);
+        System.out.println(s);
+    }
+}

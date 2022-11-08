@@ -31,3 +31,5 @@ public class ShutDownHook
     System.out.println("Application Terminating ...");
   }
 }
+
+A Java class file is a file containing Java bytecode and having .class extension that can be executed by JVM.

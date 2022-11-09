@@ -3,7 +3,7 @@
 
 --feedback and suggestions r welcome 
 <hr>
-<h1> Important Keywords <h1>
+<h1> Important Keywords </h1>
   <hr>
 Keywords refer to the reserved set of words of a language. These are used for some predefined actions.
 

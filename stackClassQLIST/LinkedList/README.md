@@ -39,3 +39,12 @@ get(int index)	This method returns the element at the specified position in this
 getFirst()	This method returns the first element in this list.
   
 getLast()	This method returns the last element in this list.
+
+
+pop()	This method Pops an element from the stack represented by this list.
+push(E e)	This method pushes an element onto the stack represented by this list.
+remove()	This method retrieves and removes the head (first element) of this list.
+remove(int index)	This method removes the element at the specified position in this list.
+remove(Object o)	This method removes the first occurrence of the specified element from this list if it is present.
+removeFirst()	This method removes and returns the first element from this list.
+removeFirstOccurrence(Object o)	This method removes the first occurrence of the specified element in this list (when traversing the list from head to tail).

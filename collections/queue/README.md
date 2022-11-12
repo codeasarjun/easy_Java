@@ -10,3 +10,10 @@ PriorityQueue, Deque, and ArrayDeque which implements the Queue interface.
 
 Queue<String> q1 = new PriorityQueue();  
 Queue<String> q2 = new ArrayDeque();  
+
+
+** Deque stands for a double-ended queue which enables us to perform the operations at both the ends.
+
+Deque can be instantiated as:
+
+Deque d = new ArrayDeque();  

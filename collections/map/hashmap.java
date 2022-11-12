@@ -17,3 +17,9 @@ class HelloWorld {
      // hm.entrySet().stream().sorted(Map.Entry.comparingByKey()).forEach(System.out::println);
     }
 }
+
+//map.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(System.out::println);  
+      //Sorted according to the provided Comparator  
+      
+      //Performs an action for each element of this stream  
+       

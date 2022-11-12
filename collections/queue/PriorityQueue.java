@@ -20,4 +20,8 @@ class HelloWorld {
        {
         System.out.print(itr.next());
        }
+       System.out.println("will see the remove part of queue");
+       data.remove();// remove the top element and throw an exception if Q is empty 
+       data.poll();//remove top of Q or return null if empty 
     }
+}

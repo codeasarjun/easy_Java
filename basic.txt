@@ -11,7 +11,7 @@ to run - java HelloWorld
 '
 ********** Variable names should not start with underscore _ or dollar sign $ characters, even though both are allowed.
 
-
+------
 
 -----
 Shutdown Hooks are a special construct that allows developers to plug in a piece of code to be executed when the JVM is shutting down. This comes in handy in cases where we need to do special clean up operations in case the VM is shutting down.
